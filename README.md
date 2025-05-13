@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[banner.png](https://github.com/Terangasn221/Terangasn221/blob/main/banner.png?raw=true)" alt="banner" />
+</p>
+
+
 <h1 align="center">Salut 👋, moi c’est Teranga</h1>
 <h3 align="center">💻 Développeur Fullstack | 🛡️ Admin Système & Cybersécurité | 🌍 Basé au Sénégal</h3>
 
