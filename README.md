@@ -6,29 +6,32 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="280" alt="Coding gif"/>
 
-I'm a passionate Full-Stack Developer from Senegal 🇸🇳, dedicated to crafting innovative digital solutions. With a strong foundation in both web and mobile development, I love transforming complex ideas into elegant, user-friendly applications. My journey began in 2023, and since then, I've been continuously learning and building projects that make a difference.
+Je suis un développeur Full-Stack passionné originaire du Sénégal 🇸🇳, dédié à la création de solutions numériques innovantes et à la sécurisation des infrastructures. Fort d'une solide expérience en développement web et mobile, ainsi que
+en cybersécurité et administration système (Linux & Windows Server), j'aime transformer des idées complexes en applications élégantes et intuitives et en environnements fiables.
 
 ```javascript
 const samba = {
-    name: "Samba Diop",
-    role: "Full-Stack Developer",
+    name: "Massar Samba",
+    role: "Full-Stack Developer & Cybersecurity / SysAdmin",
     location: "Dakar, Senegal 🇸🇳",
     specialties: {
-        web: ["React", "Angular", "Vue.js", "Next.js"],
+        web: ["React", "Angular", "Next.js"],
         mobile: ["Flutter", "Kotlin"],
-        backend: ["Java Spring Boot", "Node.js", "Go", "Rust"],
+        backend: ["Java Spring Boot", "Go", "Rust"],
         database: ["MySQL", "MongoDB", "PostgreSQL"],
-        design: ["Figma"]
+        devops: ["Docker", "Git", "GitHub Actions", "CI/CD"],
+        security: ["Network Security", "Penetration Testing", "SIEM", "OWASP Top 10"],
+        sysadmin: ["Linux (Ubuntu, CentOS)", "Windows Server", "Active Directory"]
     },
     experience: "2023 - Present",
-    motto: "Code with passion, build with purpose! 💻✨"
+    motto: "Secure code, reliable systems, seamless experience! 💻🔒"
 };
 ```
 
 ### 🎯 My Expertise
-- 🖥️ **Frontend Web Development**: React, Angular, Vue.js, Next.js
+- 🖥️ **Frontend Web Development**: React, Angular, Next.js
 - 📱 **Mobile Applications**: Flutter & Kotlin
-- ⚙️ **Backend & APIs**: Java Spring Boot, Node.js, Express
+- ⚙️ **Backend & APIs**: Java Spring Boot, Node.js, Golang, Rust
 - 🗄️ **Databases**: MySQL, MongoDB, PostgreSQL
 - 🎨 **UI/UX Design**: Figma
 - 🛠️ **DevOps & Tools**: Docker, Git, GitHub, VS Code
@@ -78,12 +81,12 @@ const samba = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=99mass&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=99mass&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Terangasn221&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Terangasn221&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99mass&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terangasn221&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -91,7 +94,7 @@ const samba = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=99mass&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Terangasn221&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -99,7 +102,7 @@ const samba = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=99mass&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Terangasn221&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -128,13 +131,7 @@ const samba = {
 
 ---
 
-## 🎓 Education & Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/UN--CHK-Computer_Science_Degree-4CAF50?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/FORCE--N-Java_Development_Certification-FF9800?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Lycée_SLL-Science_Baccalaureate-2196F3?style=for-the-badge&logo=school" />
-</div>
 
 ---
 
@@ -150,13 +147,13 @@ const samba = {
 ## 📱 Contact
 
 <div align="center">
-  <a href="mailto:sambadiop161@gmail.com">
+  <a href="mailto:massarsamb444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="tel:+221771169551">
-    <img src="https://img.shields.io/badge/Phone-+221_77_116_95_51-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+  <a href="tel:+221783781290">
+    <img src="https://img.shields.io/badge/Phone-+221_78_378_12_90-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
-  <a href="https://linkedin.com/in/sambadiop161" target="_blank">
+  <a href="https://linkedin.com/in/massar-samba-768b03230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -182,5 +179,5 @@ const samba = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=99mass&color=0e75b6&style=for-the-badge&label=VISITORS" alt="Visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=Terangasn221&color=0e75b6&style=for-the-badge&label=VISITORS" alt="Visitor count" />
 </div>
